@@ -1,6 +1,10 @@
 ## PHP (Laravel) + Docker Hello World, for Showing Good Defaults for Using A PHP Stack in Docker
 
-# A docker-compose installation of laravel php nginx and mysql for local development. An adaptation of Bret Fishers php-good-defaults project with some improvements. https://github.com/BretFisher/php-docker-good-defaults . There are a few improvements on Brets work to date but (This is still a work in progress)
+# A docker-compose installation of laravel php nginx and mysql for local development.
+
+# An adaptation of Bret Fishers php-good-defaults project with some improvements. https://github.com/BretFisher/php-docker-good-defaults
+
+# There are a few improvements on Brets work to date but (This is still a work in progress)
 
 > This tries to be a "good defaults" example of using PHP, Nginx, PHP-FPM, Laravel, and Composer in Docker for local development and shipping to production with all the bells, whistles, and best practices. Issues/PR welcome.
 
